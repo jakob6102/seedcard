@@ -42,7 +42,7 @@ Here is my example piece once stamped:
 **Step 4: Recovering the 24 words**  
 To recover the original 24 works you must convert the binary strings back to base-10 and then find the corresponding word from the BIP39 word list linked previouly, the conversion should be done using a dumb calculator rather than a computer or phone. Remember to add 1 to your base-10 number if the word list has the words numbered starting at 1 rather than 0.  
 
-Here in my example I printed the grid guide onto clear paper to make the binary more readable:  
+Here in my example I printed the grid guide onto clear paper and held it over the steel plate to make the binary more readable:  
 <a href="url"><img src="https://github.com/jakob6102/seedcard/blob/a12ff90857793946c268233dbcf0d87859e1ad9e/pictures/plate_with_guide-cropped.jpg" height="400" width="400" ></a>  
 Again here the process can be streamlined by wallets allowing the user to enter their seed as binary rather than needing to convert it back to words.   
 
