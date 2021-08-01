@@ -25,7 +25,7 @@ This is an example of one I made, the grid is taped to a credit card sized plate
 **Step 2: Convert 24 word seed to binary**  
 To record a seed densely using just a centre punch, this method requires the seed to be stamped in binary. Currently this means you must convert your 24 word to binary manually using a full BIP39 word list such as this one: https://github.com/hatgit/BIP39-wordlist-printable-en. Simply find each word of your seed on the list and record its binary equivelant on the grid with 1's being marked by a pen. 
 
-For example, the BIP39 word "satoshi" represents the binary string "1011111101" and would be marked on the grid like this:  
+For example, the BIP39 word "satoshi" represents the binary string "10111111011" and would be marked on the grid like this:  
 ![alt text](https://github.com/jakob6102/seedcard/blob/db034f124d1dfd947e9e75fc1d4239834f0aaa48/pictures/satoshi_example.jpeg?raw=true)  
 
 My example fully marked up looks like this:  
@@ -34,13 +34,13 @@ This process could be improved by wallets having the option to natively display 
 empty circles for a 0 and full circles for a 1. This is a simple addition for wallets to make with the only concern being UI clutter and potential user confusion.  
 
 **Step 3: Stamping the plate**  
-Once the grid is marked, simply go along with the centre punch and mark each cell marked with the pen, I used an automatic centre punch for simplicity and speed but a normal punch and mallet would work just as well. Mark a line down the right hand side to indicate the plates orientation, this can either be a solid lines of 1's or this could be used to store passphrase entropy. Once you have stamped the steel, remove the paper guide and burn or otherwise destroy it as it has a copy of your seed on it.  
+Once the grid is marked, simply go along with the centre punch and stamp each cell marked with the pen, I used an automatic centre punch for simplicity and speed but a normal punch and mallet would work just as well. Mark a line down the right hand side to indicate the plates orientation, this can either be a solid line of 1's or this could be used to store passphrase entropy. Once you have stamped the steel, remove the paper guide and burn or otherwise destroy it as it has a copy of your seed on it.  
 
 Here is my example piece once stamped:  
 <a href="url"><img src="https://github.com/jakob6102/seedcard/blob/db034f124d1dfd947e9e75fc1d4239834f0aaa48/pictures/stamped_plate-cropped.jpg" height="400" width="400" ></a>  
 
 **Step 4: Recovering the 24 words**  
-To recover the original 24 works you must convert the binary strings back to base-10 and then find the corresponding word from the BIP39 word liot linked previouly, the conversion should be done using a dumb calculator rather than a computer or phone. Remember to add 1 to your base-10 number if the word list has the words numbered starting at 1 rather than 0.  
+To recover the original 24 works you must convert the binary strings back to base-10 and then find the corresponding word from the BIP39 word list linked previouly, the conversion should be done using a dumb calculator rather than a computer or phone. Remember to add 1 to your base-10 number if the word list has the words numbered starting at 1 rather than 0.  
 
 Here in my example I printed the grid guide onto clear paper to make the binary more readable:  
 <a href="url"><img src="https://github.com/jakob6102/seedcard/blob/a12ff90857793946c268233dbcf0d87859e1ad9e/pictures/plate_with_guide-cropped.jpg" height="400" width="400" ></a>  
