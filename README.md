@@ -1,6 +1,6 @@
 # seedcard
 A cheap and simple way to make metal bitcoin seed backups with just a centre punch.  
-<a href="url"><img src="https://github.com/jakob6102/seedcard/blob/54f6e41d9b25fd3b1adae2c670cfc15970443eff/pictures/finished_plate.jpeg" height="280" width="520" ></a>  
+<a href="url"><img src="https://github.com/jakob6102/seedcard/blob/54f6e41d9b25fd3b1adae2c670cfc15970443eff/pictures/finished_plate.jpeg" height="320" width="520" ></a>  
 
     
     
