@@ -25,7 +25,7 @@ This is an example of one I made, the grid is taped to a credit card sized plate
 **Step 2: Convert 24 word seed to binary**  
 To record a seed densely using just a centre punch, this method requires the seed to be stamped in binary. Currently this means you must convert your 24 word to binary manually using a full BIP39 word list such as this one: https://github.com/hatgit/BIP39-wordlist-printable-en. Simply find each word of your seed on the list and record its binary equivelant on the grid with 1's being marked by a pen. 
 
-For example, the BIP39 word "satoshi" represents the binary string "1011111101" and would be marked on the grid like this:
+For example, the BIP39 word "satoshi" represents the binary string "1011111101" and would be marked on the grid like this:  
 ![alt text](https://github.com/jakob6102/seedcard/blob/db034f124d1dfd947e9e75fc1d4239834f0aaa48/pictures/satoshi_example.jpeg?raw=true)  
 
 My example fully marked up looks like this:  
