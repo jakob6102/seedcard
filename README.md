@@ -47,7 +47,7 @@ Here in my example I printed the grid guide onto clear paper and held it over th
 Again here the process can be streamlined by wallets allowing the user to enter their seed as binary rather than needing to convert it back to words.   
 
 **Conclusion:**  
-Excluding the conversion to binary, this only takes about 10 minutes to create a metal backup for your seed and only requires one cheap tool and a small piece of metal (the card sized plates I had laser cut cost about $1 each). It is as durable as any other metal backup and has the added advantage of being language agnostic. There is some room for human error with the word>binary conversion and this conversion is hard to visually error correct however these issues are alleviated by wallets adding the suggested impovements to display and accept seed binary natively. My hope is that this can be an effective way to make metal backups for any wallet (even mobile or node hot wallets) without breaking the bank.
+Excluding the conversion to binary, this only takes about 10 minutes to create a metal backup for your seed and only requires one cheap tool and a small piece of metal (the card sized plates I had laser cut cost under $5 each). It is as durable as any other metal backup and has the added advantage of being language agnostic. There is some room for human error with the word>binary conversion and this conversion is hard to visually error correct however these issues are alleviated by wallets adding the suggested impovements to display and accept seed binary natively. My hope is that this can be an effective way to make metal backups for any wallet (even mobile or node hot wallets) without breaking the bank.
 
 
 
