@@ -6,7 +6,7 @@ A cheap and simple way to make metal bitcoin seed backups with just a centre pun
     
 **Overview:**  
 This method of seed storage consists of converting a BIP39 24 word seed into its binary form then stamping it into a metal plate using a centre punch. 
-This allows you to quickly make very cheap metal backups for your bitcoin seeds with minimal tools.
+This allows you to quickly make very cheap metal backups for your bitcoin seeds with minimal tools. This metal backup can also be destoryed quickly by adding additional punches.
 
 **Requirments:**  
 -Metal plate of minimum size 39x72mm  
